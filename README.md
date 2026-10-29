@@ -16,7 +16,7 @@ CS grad and full-stack dev who also designs brand UIs. I build with Flask, Node.
 &nbsp;I'm currently learning **TypeScript**  
 &nbsp;I'm looking to collaborate on **open-source dev tools, like my CLI project Graphify**  
 &nbsp;I'm looking for help with **Scaling Anovibe as the user base grows**  
-&nbsp;Ask me about **Ask me about Flask, Next.js,or turning a rough idea into a shipped product**  
+&nbsp;Ask me about **Ask me about Flask, Next.js, or turning a rough idea into a shipped product**  
 &nbsp;Pronouns: **he/him**  
 &nbsp;Fun fact: **I once built a facial recognition attendance system, and i design logos and brand identities on the side.**
 
