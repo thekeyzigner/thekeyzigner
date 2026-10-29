@@ -8,19 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=AI%2FML%20Engineer-%20Full-stack%20dev%20-%20Data%20Analyst-%20Brand%20UI%20Designer;Transforming%20complex%20problems%20into%20clean%2C%20usable%20software" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 CS grad and full-stack dev who also designs brand UIs. I build with Flask, Node.js,Next.js, and Laravel, and i like shipping real products.
 
-🔭 &nbsp;I'm currently working on **Currently building Anovibe, an anonymous messaging app  (Next.js + Postgre)**  
-🌱 &nbsp;I'm currently learning **TypeScript**  
-👯 &nbsp;I'm looking to collaborate on **open-source dev tools, like my CLI project Graphify**  
-🤔 &nbsp;I'm looking for help with **Scaling Anovibe as the user base grows**  
-💬 &nbsp;Ask me about **Ask me about Flask, Next.js,or turning a rough idea into a shipped product**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I once built a facial recognition attendance system, and i design logos and brand identities on the side.**
+&nbsp;I'm currently working on **Currently building Anovibe, an anonymous messaging app  (Next.js + Postgre)**  
+&nbsp;I'm currently learning **TypeScript**  
+&nbsp;I'm looking to collaborate on **open-source dev tools, like my CLI project Graphify**  
+&nbsp;I'm looking for help with **Scaling Anovibe as the user base grows**  
+&nbsp;Ask me about **Ask me about Flask, Next.js,or turning a rough idea into a shipped product**  
+&nbsp;Pronouns: **he/him**  
+&nbsp;Fun fact: **I once built a facial recognition attendance system, and i design logos and brand identities on the side.**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -52,7 +52,7 @@ CS grad and full-stack dev who also designs brand UIs. I build with Flask, Node.
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/michael-young-6240aa370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -62,24 +62,24 @@ CS grad and full-stack dev who also designs brand UIs. I build with Flask, Node.
   <a href="mailto:mrleeyoung1122@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=thekeyzigner&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=thekeyzigner&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=thekeyzigner&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/thekeyzigner">thekeyzigner</a></i></p>
+<p align="center"><i> From <a href="https://github.com/thekeyzigner">thekeyzigner</a></i></p>
